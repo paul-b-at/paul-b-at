@@ -43,9 +43,9 @@ AI BSc student @ JKU Linz. I build programs, study ML + algorithms/complexity, a
 
 ## 📈 GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=paul-b-at&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paul-b-at&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0B0F19)
+![Profile Views](https://komarev.com/ghpvc/?username=paul-b-at&style=for-the-badge&color=0B0F19)
