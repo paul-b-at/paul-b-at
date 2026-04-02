@@ -43,8 +43,8 @@ AI BSc student @ JKU Linz. I build programs, study ML + algorithms/complexity, a
 
 ## 📈 GitHub stats
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paul-b-at&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](`https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paul-b-at&layout=compact&theme=tokyonight&hide_border=true`)
+![Stats](https://github-readme-stats-henna-xi-14.vercel.app/api?username=paul-b-at&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](`https://github-readme-stats-henna-xi-14.vercel.app/api/top-langs/?username=paul-b-at&layout=compact&theme=tokyonight&hide_border=true`)
 
 ---
 
